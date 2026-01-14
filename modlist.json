@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.0.2",
+  "modpackVersion": "1.0.3",
   "mods": [
     {
       "name": "AutoModPack",
@@ -85,6 +85,12 @@
       "name": "combat",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bettercombat-fabric-3.0.0+1.21.11.jar",
       "fileName": "bettercombat-fabric-3.0.0+1.21.11.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "animlib",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/PlayerAnimationLibFabric-1.1.5+mc.1.21.11.jar",
+      "fileName": "PlayerAnimationLibFabric-1.1.5+mc.1.21.11.jar"
       "side": "BOTH"
     }
   ]
