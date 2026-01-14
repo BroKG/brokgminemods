@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.0.1",
+  "modpackVersion": "1.0.2",
   "mods": [
     {
       "name": "AutoModPack",
@@ -47,6 +47,21 @@
       "name": "Light",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lambdynamiclights-4.9.1+1.21.11.jar",
       "fileName": "lambdynamiclights-4.9.1+1.21.11.jar"
+    },
+    {
+      "name": "menu",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/modmenu-17.0.0-beta.2.jar",
+      "fileName": "modmenu-17.0.0-beta.2.jar"
+    },
+    {
+      "name": "sounds",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/PresenceFootsteps-1.12.3+1.21.11.jar",
+      "fileName": "lambdynamiclights-4.9.1+1.21.11.jar"
+    },
+    {
+      "name": "cloth",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/cloth-config-21.11.153-fabric.jar",
+      "fileName": "cloth-config-21.11.153-fabric.jar"
     }
   ]
 }
