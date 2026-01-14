@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.21.11-fabric-4.0.2.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-api-0.141.1+1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/ferritecore-8.0.3-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.10.jar
@@ -8,5 +7,4 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.21.11-
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/skinrestorer-2.4.3+1.21.11-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/lambdynamiclights-4.9.1+1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/modmenu-17.0.0-beta.2.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/PresenceFootsteps-1.12.3+1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/cloth-config-21.11.153-fabric.jar
