@@ -92,6 +92,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/PlayerAnimationLibFabric-1.1.4+mc.1.21.11.jar",
       "fileName": "PlayerAnimationLibFabric-1.1.4+mc.1.21.11.jar"
       "side": "BOTH"
+    },
+    {
+      "name": "sorting",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sort_it_out-fabric-1.1.4+1.21.11.jar",
+      "fileName": "sort_it_out-fabric-1.1.4+1.21.11.jar"
+      "side": "BOTH"
     }
   ]
 }
