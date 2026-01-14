@@ -80,6 +80,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/antixray-fabric-1.4.13+1.21.11.jar",
       "fileName": "antixray-fabric-1.4.13+1.21.11.jar"
       "side": "SERVER"
+    },
+    {
+      "name": "combat",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bettercombat-fabric-3.0.0+1.21.11.jar",
+      "fileName": "bettercombat-fabric-3.0.0+1.21.11.jar"
+      "side": "BOTH"
     }
   ]
 }
