@@ -7,61 +7,79 @@
       "name": "AutoModPack",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.21.11-fabric-4.0.2.jar",
       "fileName": "automodpack-mc1.21.11-fabric-4.0.2.jar"
+      "side": "BOTH"
     },
     {
       "name": "BadOptimizations",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.21.11.jar",
       "fileName": "BadOptimizations-2.4.1-1.21.11.jar"
+      "side": "CLIENT"
     },
     {
       "name": "Fabric API",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-api-0.141.1+1.21.11.jar",
       "fileName": "fabric-api-0.141.1+1.21.11.jar"
+      "side": "BOTH"
     },
     {
       "name": "FerriteCore",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ferritecore-8.0.3-fabric.jar",
       "fileName": "ferritecore-8.0.3-fabric.jar"
+      "side": "BOTH"
     },
     {
       "name": "Krypton",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.10.jar",
       "fileName": "krypton-0.2.10.jar"
+      "side": "BOTH"
     },
     {
       "name": "Lithium",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lithium-fabric-0.21.2+mc1.21.11.jar",
       "fileName": "lithium-fabric-0.21.2+mc1.21.11.jar"
+      "side": "BOTH"
     },
     {
       "name": "VMP",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar",
       "fileName": "vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar"
+      "side": "BOTH"
     },
     {
       "name": "Skin",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/skinrestorer-2.4.3+1.21.11-fabric.jar",
       "fileName": "skinrestorer-2.4.3+1.21.11-fabric.jar"
+      "side": "BOTH"
     },
     {
       "name": "Light",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lambdynamiclights-4.9.1+1.21.11.jar",
       "fileName": "lambdynamiclights-4.9.1+1.21.11.jar"
+      "side": "CLIENT"
     },
     {
       "name": "menu",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/modmenu-17.0.0-beta.2.jar",
       "fileName": "modmenu-17.0.0-beta.2.jar"
+      "side": "CLIENT"
     },
     {
-      "name": "sounds",
+      "name": "presfootsps",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/PresenceFootsteps-1.12.3+1.21.11.jar",
       "fileName": "lambdynamiclights-4.9.1+1.21.11.jar"
+      "side": "CLIENT"
     },
     {
       "name": "cloth",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/cloth-config-21.11.153-fabric.jar",
       "fileName": "cloth-config-21.11.153-fabric.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "xray",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/antixray-fabric-1.4.13+1.21.11.jar",
+      "fileName": "antixray-fabric-1.4.13+1.21.11.jar"
+      "side": "SERVER"
     }
   ]
 }
