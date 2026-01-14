@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "modpackName": "BroKG Mine Mods",
+  "modpackVersion": "1.0.0",
+  "mods": [
+    {
+      "name": "AutoModPack",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.21.11-fabric-4.0.2.jar",
+      "fileName": "automodpack-mc1.21.11-fabric-4.0.2.jar"
+    },
+    {
+      "name": "BadOptimizations",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.21.11.jar",
+      "fileName": "BadOptimizations-2.4.1-1.21.11.jar"
+    },
+    {
+      "name": "Fabric API",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-api-0.141.1+1.21.11.jar",
+      "fileName": "fabric-api-0.141.1+1.21.11.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ferritecore-8.0.3-fabric.jar",
+      "fileName": "ferritecore-8.0.3-fabric.jar"
+    },
+    {
+      "name": "Krypton",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.10.jar",
+      "fileName": "krypton-0.2.10.jar"
+    },
+    {
+      "name": "Lithium",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lithium-fabric-0.21.2+mc1.21.11.jar",
+      "fileName": "lithium-fabric-0.21.2+mc1.21.11.jar"
+    },
+    {
+      "name": "VMP",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.21.11-0.2.0+beta.11-all.jar",
+      "fileName": "vmp-fabric-mc1.21.11-0.2.0+beta.11-all.jar"
+    }
+  ]
+}
