@@ -43,5 +43,10 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/skinrestorer-2.4.3+1.21.11-fabric.jar",
       "fileName": "skinrestorer-2.4.3+1.21.11-fabric.jar"
     }
+    {
+      "name": "Light",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lambdynamiclights-4.9.1+1.21.11.jar",
+      "fileName": "lambdynamiclights-4.9.1+1.21.11.jar"
+    }
   ]
 }
