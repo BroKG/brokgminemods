@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/modmenu-17.0.0-beta.2
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/cloth-config-21.11.153-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/antixray-fabric-1.4.13+1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/bettercombat-fabric-3.0.0+1.21.11.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/PlayerAnimationLibFabric-1.1.5+mc.1.21.11.jar
