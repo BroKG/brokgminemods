@@ -1,7 +1,7 @@
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.21.11-fabric-4.0.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-api-0.141.1+1.21.11.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/fferritecore-8.0.3-fabric.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/ferritecore-8.0.3-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.10.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/lithium-fabric-0.21.2+mc1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar
