@@ -38,5 +38,10 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar",
       "fileName": "vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar"
     }
+    {
+      "name": "Skin",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/skinrestorer-2.4.3+1.21.11-fabric.jar",
+      "fileName": "skinrestorer-2.4.3+1.21.11-fabric.jar"
+    }
   ]
 }
