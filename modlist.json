@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.0.6",
+  "modpackVersion": "1.0.7",
   "mods": [
     {
       "name": "AutoModPack",
@@ -109,6 +109,18 @@
       "name": "jamlib",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/jamlib-fabric-1.3.5+1.21.11.jar",
       "fileName": "jamlib-fabric-1.3.5+1.21.11.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "MobsSpawnAnims",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
+      "fileName": "spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "phanotms",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/phantoms-in-the-end-1.0.2+1.21.11.jar",
+      "fileName": "phantoms-in-the-end-1.0.2+1.21.11.jar"
       "side": "BOTH"
     }
   ]
