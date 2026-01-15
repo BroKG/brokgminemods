@@ -98,6 +98,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sort_it_out-fabric-1.1.4+1.21.11.jar",
       "fileName": "sort_it_out-fabric-1.1.4+1.21.11.jar"
       "side": "BOTH"
+    },
+    {
+      "name": "foods&crops",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-1.21.11-1.5.0.jar",
+      "fileName": "rusticdelight-fabric-1.21.11-1.5.0.jar"
+      "side": "BOTH"
     }
   ]
 }
