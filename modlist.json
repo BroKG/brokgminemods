@@ -104,6 +104,18 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-1.21.11-1.5.0.jar",
       "fileName": "rusticdelight-fabric-1.21.11-1.5.0.jar"
       "side": "BOTH"
+    },
+    {
+      "name": "architectlib",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-19.0.1-fabric.jar",
+      "fileName": "architectury-19.0.1-fabric.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "jamlib",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/jamlib-fabric-1.3.5+1.21.11.jar",
+      "fileName": "jamlib-fabric-1.3.5+1.21.11.jar"
+      "side": "BOTH"
     }
   ]
 }
