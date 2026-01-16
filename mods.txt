@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/FarmersDelight-1.21.1
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/appleskin-fabric-mc1.21.11-3.0.7.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-1.21.11-1.5.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.21.11-9.3.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/collective-1.21.11-8.13.jar
