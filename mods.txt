@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-19.0.1-f
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/jamlib-fabric-1.3.5+1.21.11.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/phantoms-in-the-end-1.0.2+1.21.11.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/FarmersDelight-1.21.11-3.4.6+refabricated.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/appleskin-fabric-mc1.21.11-3.0.7.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-1.21.11-1.5.1.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.21.11-9.3.jar
