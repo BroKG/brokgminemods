@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.0.7",
+  "modpackVersion": "1.0.8",
   "mods": [
     {
       "name": "AutoModPack",
@@ -121,6 +121,30 @@
       "name": "phanotms",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/phantoms-in-the-end-1.0.2+1.21.11.jar",
       "fileName": "phantoms-in-the-end-1.0.2+1.21.11.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "FarmersDelight",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/FarmersDelight-1.21.11-3.4.6+refabricated.jar",
+      "fileName": "FarmersDelight-1.21.11-3.4.6+refabricated.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "Appleskin",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/appleskin-fabric-mc1.21.11-3.0.7.jar",
+      "fileName": "appleskin-fabric-mc1.21.11-3.0.7.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "RusticDelight",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-1.21.11-1.5.1.jar",
+      "fileName": "rusticdelight-fabric-1.21.11-1.5.1.jar"
+      "side": "BOTH"
+    },
+    {
+      "name": "TreeHarvstr",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.21.11-9.3.jar",
+      "fileName": "treeharvester-1.21.11-9.3.jar"
       "side": "BOTH"
     }
   ]
