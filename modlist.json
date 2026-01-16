@@ -140,6 +140,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.21.11-9.3.jar",
       "fileName": "treeharvester-1.21.11-9.3.jar"
       "side": "BOTH"
+    },
+    {
+      "name": "collective",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/collective-1.21.11-8.13.jar",
+      "fileName": "collective-1.21.11-8.13.jar"
+      "side": "BOTH"
     }
   ]
 }
