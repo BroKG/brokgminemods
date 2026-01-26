@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "modpackName": "BroKG Mine Mods",
+  "modpackVersion": "1.0",
+  "mods": [
+    {
+      "name": "AutoModPack",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.21.11-fabric-4.0.2.jar",
+      "fileName": "automodpack-mc1.21.11-fabric-4.0.2.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Sodium",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sodium-fabric-0.8.2+mc1.21.11.jar",
+      "fileName": "sodium-fabric-0.8.2+mc1.21.11.jar",
+      "side": "CLIENT"
+    }
+  ]
+}
