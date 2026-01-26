@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/sodium-fabric-0.5.13+
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/lithium-fabric-mc1.20.1-0.11.4.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/ferritecore-6.0.1-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.20.1.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/brokgminemods/main/krypton-0.2.3.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/watut-fabric-1.20.1-1.2.3.jar
