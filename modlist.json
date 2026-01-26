@@ -1,19 +1,169 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.0",
+  "modpackVersion": "1.20.1-Full",
   "mods": [
     {
-      "name": "AutoModPack",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.21.11-fabric-4.0.2.jar",
-      "fileName": "automodpack-mc1.21.11-fabric-4.0.2.jar",
+      "name": "Fabric API",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-api-0.92.7+1.20.1.jar",
+      "fileName": "fabric-api-0.92.7+1.20.1.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "fileName": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Cloth Config",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/cloth-config-11.1.136-fabric.jar",
+      "fileName": "cloth-config-11.1.136-fabric.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Puzzles Lib",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+      "fileName": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
       "side": "BOTH"
     },
     {
       "name": "Sodium",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sodium-fabric-0.8.2+mc1.21.11.jar",
-      "fileName": "sodium-fabric-0.8.2+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sodium-fabric-0.5.13+mc1.20.1.jar",
+      "fileName": "sodium-fabric-0.5.13+mc1.20.1.jar",
       "side": "CLIENT"
+    },
+    {
+      "name": "Lithium",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lithium-fabric-mc1.20.1-0.11.4.jar",
+      "fileName": "lithium-fabric-mc1.20.1-0.11.4.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "FerriteCore",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ferritecore-6.0.1-fabric.jar",
+      "fileName": "ferritecore-6.0.1-fabric.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "BadOptimizations",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.20.1.jar",
+      "fileName": "BadOptimizations-2.4.1-1.20.1.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Krypton",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.3.jar",
+      "fileName": "krypton-0.2.3.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "VMP",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+      "fileName": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "C2ME",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+      "fileName": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "Watut",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/watut-fabric-1.20.1-1.2.3.jar",
+      "fileName": "watut-fabric-1.20.1-1.2.3.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Farmer's Delight",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+      "fileName": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Traveler's Backpack",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/travelersbackpack-fabric-1.20.1-9.1.48.jar",
+      "fileName": "travelersbackpack-fabric-1.20.1-9.1.48.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Lootr",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lootr-fabric-1.20-0.7.35.86.jar",
+      "fileName": "lootr-fabric-1.20-0.7.35.86.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Handcrafted",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/handcrafted-fabric-1.20.1-3.0.6.jar",
+      "fileName": "handcrafted-fabric-1.20.1-3.0.6.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Magnum Torch",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "fileName": "MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "AppleSkin",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/appleskin-fabric-mc1.20.1-2.5.2.jar",
+      "fileName": "appleskin-fabric-mc1.20.1-2.5.2.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "JEI",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/jei-1.20.1-fabric-15.20.0.129.jar",
+      "fileName": "jei-1.20.1-fabric-15.20.0.129.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "LambDynamicLights",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lambdynamiclights-4.4.0+1.20.1.jar",
+      "fileName": "lambdynamiclights-4.4.0+1.20.1.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Entity Texture Features",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/entity_texture_features_1.20.1-fabric-7.0.8.jar",
+      "fileName": "entity_texture_features_1.20.1-fabric-7.0.8.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Entity Model Features",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/entity_model_features_1.20.1-fabric-3.0.10.jar",
+      "fileName": "entity_model_features_1.20.1-fabric-3.0.10.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Inventory Profiles Next",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/InventoryProfilesNext-fabric-1.20-1.10.19.jar",
+      "fileName": "InventoryProfilesNext-fabric-1.20-1.10.19.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "LibIPN",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/libIPN-fabric-1.20-4.0.2.jar",
+      "fileName": "libIPN-fabric-1.20-4.0.2.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Mod Menu",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/modmenu-7.2.2.jar",
+      "fileName": "modmenu-7.2.2.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Custom Skin Loader",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/CustomSkinLoader_Fabric-14.27.jar",
+      "fileName": "CustomSkinLoader_Fabric-14.27.jar",
+      "side": "CLIENT"
+    },
+    {
+      "name": "Chunky",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Chunky-1.3.146.jar",
+      "fileName": "Chunky-1.3.146.jar",
+      "side": "SERVER"
     }
   ]
 }
