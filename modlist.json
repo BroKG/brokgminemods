@@ -226,12 +226,6 @@
       "side": "SERVER"
     },
     {
-      "name": "Explorify",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Explorify_v1.6.4_f15-88.mod.jar",
-      "fileName": "Explorify_v1.6.4_f15-88.mod.jar",
-      "side": "BOTH"
-    },
-    {
       "name": "StemaRails",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
       "fileName": "Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
