@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/automodpack-mc1.20.1-fabric-4.0.5.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-api-0.92.7+1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/cloth-config-11.1.136-fabric.jar
