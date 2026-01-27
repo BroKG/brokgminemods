@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.1",
+  "modpackVersion": "1.2",
   "mods": [
     {
       "name": "Fabric API",
@@ -374,6 +374,18 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-9.2.14-fabric.jar",
       "fileName": "architectury-9.2.14-fabric.jar",
       "side": "BOTH"
+    },
+    {
+      "name": "Explorify_v1",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Explorify_v1.6.4_f15-88.mod.jar",
+      "fileName": "Explorify_v1.6.4_f15-88.mod.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "survival-islands",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/survival-islands-1.0.3.jar",
+      "fileName": "survival-islands-1.0.3.jar",
+      "side": "SERVER"
     }
   ]
 }
