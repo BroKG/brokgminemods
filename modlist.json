@@ -380,12 +380,6 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Explorify_v1.6.4_f15-88.mod.jar",
       "fileName": "Explorify_v1.6.4_f15-88.mod.jar",
       "side": "BOTH"
-    },
-    {
-      "name": "survival-islands",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/survival-islands-1.0.3.jar",
-      "fileName": "survival-islands-1.0.3.jar",
-      "side": "SERVER"
     }
   ]
 }
