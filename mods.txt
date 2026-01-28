@@ -38,7 +38,6 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/spark-1.10.53-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/Steam_Rails-1.6.9+fabric-mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/TravelersTitles-1.20-Fabric-4.0.2.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterCaves-1.20.1-Fabric-2.0.5.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterDungeons-1.20-Fabric-4.0.4.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar
@@ -48,7 +47,6 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterOceanMonum
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBridges-1.20-Fabric-4.0.3.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsExtras-1.20-Fabric-4.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/indium-1.0.36+mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/sliceanddice-fabric-3.3.1.jar
