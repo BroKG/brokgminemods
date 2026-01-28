@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "modpackName": "BroKG Mine Mods",
-  "modpackVersion": "1.2",
+  "modpackVersion": "1.3",
   "mods": [
     {
       "name": "Fabric API",
@@ -370,9 +370,27 @@
       "side": "SERVER"
     },
     {
-      "name": "Explorify_v1",
+      "name": "bat-membrane",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bat-membrane-v.1.1.1.jar",
       "fileName": "bat-membrane-v.1.1.1.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "Jadens-Nether-Expansion",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Jadens-Nether-Expansion-2.1.3-Fabric.jar",
+      "fileName": "Jadens-Nether-Expansion-2.1.3-Fabric.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "no-netherite-armor",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/no-netherite-armor-1.0.0.jar",
+      "fileName": "no-netherite-armor-1.0.0.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "nomobfarm",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/nomobfarm-fabric-1.6.6.jar",
+      "fileName": "nomobfarm-fabric-1.6.6.jar",
       "side": "SERVER"
     }
   ]
