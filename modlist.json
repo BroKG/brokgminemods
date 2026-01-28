@@ -362,6 +362,18 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Explorify_v1.6.4_f15-88.mod.jar",
       "fileName": "Explorify_v1.6.4_f15-88.mod.jar",
       "side": "BOTH"
+    },
+    {
+      "name": "antixray",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/antixray-fabric-1.4.6+1.20.1.jar",
+      "fileName": "antixray-fabric-1.4.6+1.20.1.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "Explorify_v1",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bat-membrane-v.1.1.1.jar",
+      "fileName": "bat-membrane-v.1.1.1.jar",
+      "side": "SERVER"
     }
   ]
 }
