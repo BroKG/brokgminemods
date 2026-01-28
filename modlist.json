@@ -244,12 +244,6 @@
       "side": "BOTH"
     },
     {
-      "name": "BttrCaves",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterCaves-1.20.1-Fabric-2.0.5.jar",
-      "fileName": "YungsBetterCaves-1.20.1-Fabric-2.0.5.jar",
-      "side": "BOTH"
-    },
-    {
       "name": "BttrDesTemple",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
       "fileName": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
@@ -301,12 +295,6 @@
       "name": "Bridges",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBridges-1.20-Fabric-4.0.3.jar",
       "fileName": "YungsBridges-1.20-Fabric-4.0.3.jar",
-      "side": "BOTH"
-    },
-    {
-      "name": "CaveBioms",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
-      "fileName": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
       "side": "BOTH"
     },
     {
