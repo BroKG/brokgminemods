@@ -155,12 +155,6 @@
       "side": "BOTH"
     },
     {
-      "name": "Graves",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/gravestones-v1.15.jar",
-      "fileName": "gravestones-v1.15.jar",
-      "side": "BOTH"
-    },
-    {
       "name": "Ledger",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ledger-1.2.8.jar",
       "fileName": "ledger-1.2.8.jar",
