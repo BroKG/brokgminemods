@@ -352,12 +352,6 @@
       "side": "SERVER"
     },
     {
-      "name": "nomobfarm",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/nomobfarm-fabric-1.6.6.jar",
-      "fileName": "nomobfarm-fabric-1.6.6.jar",
-      "side": "SERVER"
-    },
-    {
       "name": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
       "fileName": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
