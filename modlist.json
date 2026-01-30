@@ -58,12 +58,6 @@
       "side": "BOTH"
     },
     {
-      "name": "BadOptimizations",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/BadOptimizations-2.4.1-1.20.1.jar",
-      "fileName": "BadOptimizations-2.4.1-1.20.1.jar",
-      "side": "CLIENT"
-    },
-    {
       "name": "Krypton",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/krypton-0.2.3.jar",
       "fileName": "krypton-0.2.3.jar",
@@ -127,30 +121,6 @@
       "name": "LambDynamicLights",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lambdynamiclights-4.4.0+1.20.1.jar",
       "fileName": "lambdynamiclights-4.4.0+1.20.1.jar",
-      "side": "CLIENT"
-    },
-    {
-      "name": "Entity Texture Features",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/entity_texture_features_1.20.1-fabric-7.0.8.jar",
-      "fileName": "entity_texture_features_1.20.1-fabric-7.0.8.jar",
-      "side": "CLIENT"
-    },
-    {
-      "name": "Entity Model Features",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/entity_model_features_1.20.1-fabric-3.0.10.jar",
-      "fileName": "entity_model_features_1.20.1-fabric-3.0.10.jar",
-      "side": "CLIENT"
-    },
-    {
-      "name": "Inventory Profiles Next",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/InventoryProfilesNext-fabric-1.20-1.10.19.jar",
-      "fileName": "InventoryProfilesNext-fabric-1.20-1.10.19.jar",
-      "side": "CLIENT"
-    },
-    {
-      "name": "LibIPN",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/libIPN-fabric-1.20-4.0.2.jar",
-      "fileName": "libIPN-fabric-1.20-4.0.2.jar",
       "side": "CLIENT"
     },
     {
@@ -235,12 +205,6 @@
       "name": "StemaRails",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
       "fileName": "Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
-      "side": "BOTH"
-    },
-    {
-      "name": "Titles",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/TravelersTitles-1.20-Fabric-4.0.2.jar",
-      "fileName": "TravelersTitles-1.20-Fabric-4.0.2.jar",
       "side": "BOTH"
     },
     {
