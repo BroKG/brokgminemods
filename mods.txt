@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/CrashAssistant-fabric
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/NoChatReports-FABRIC-1.20.1-v2.2.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/animal_feeding_trough-1.1.0+1.20.1.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/auth-1.0.0.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/ledger-1.2.8.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/observable-4.4.2.jar
