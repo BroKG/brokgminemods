@@ -61,3 +61,4 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/gravestones-v1.15.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/carpet-fixes-1.20-1.16.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/memoryleakfix-fabric-1.17+-1.1.5.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/skinrestorer-2.5.0+1.20-fabric.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-carpet-1.20-1.4.112+v230608.jar
