@@ -465,6 +465,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/collective-1.20.1-8.13.jar",
       "fileName": "collective-1.20.1-8.13.jar",
       "side": "BOTH"
+    },
+    {
+      "name": "elytra-nerf",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/elytra-nerf-1.0.1+1.20.2.jar",
+      "fileName": "elytra-nerf-1.0.1+1.20.2.jar",
+      "side": "SERVER"
     }
   ]
 }
