@@ -333,11 +333,12 @@
       "fileName": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
       "side": "BOTH"
     },
+    
     {
       "name": "JEI",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/jei-1.20.1-fabric-15.20.0.129.jar",
       "fileName": "jei-1.20.1-fabric-15.20.0.129.jar",
-      "side": "CLIENT"
+      "side": "BOTH"
     },
     {
       "name": "Graves",
@@ -349,13 +350,13 @@
       "name": "skinrestorer",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/skinrestorer-2.5.0+1.20-fabric.jar",
       "fileName": "skinrestorer-2.5.0+1.20-fabric.jar",
-      "side": "SERVER"
+      "side": "BOTH"
     },
     {
       "name": "memoryleakfix",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/memoryleakfix-fabric-1.17+-1.1.5.jar",
       "fileName": "memoryleakfix-fabric-1.17+-1.1.5.jar",
-      "side": "BOTH"
+      "side": "SERVER"
     },
     {
       "name": "carpet-fixes",
@@ -367,6 +368,78 @@
       "name": "fabric-fixes",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-carpet-1.20-1.4.112+v230608.jar",
       "fileName": "fabric-carpet-1.20-1.4.112+v230608.jar",
+      "side": "BOTH"
+    },
+     {
+      "name": "nomobfarm",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/nomobfarm-fabric-1.6.6.jar",
+      "fileName": "nomobfarm-fabric-1.6.6.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "DisableEnd",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/DisableEnd-1.1.4+1.16-1.21.4.jar",
+      "fileName": "DisableEnd-1.1.4+1.16-1.21.4.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "YungsBetterEndIsland",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+      "fileName": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+      "side": "SERVER"
+    },  
+    {
+      "name": "bclib",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bclib-3.0.14.jar",
+      "fileName": "bclib-3.0.14.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "betterendcitiesvanilla",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/betterendcitiesvanilla-1.20.1.jar",
+      "fileName": "betterendcitiesvanilla-1.20.1.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "darkness",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/darkness-fabric-1.2.0+mc1.20.1.jar",
+      "fileName": "darkness-fabric-1.2.0+mc1.20.1.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "forgivingvoid",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/forgivingvoid-fabric-1.20.1-10.0.3.jar",
+      "fileName": "forgivingvoid-fabric-1.20.1-10.0.3.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "owo-lib",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/owo-lib-0.11.2+1.20.jar",
+      "fileName": "owo-lib-0.11.2+1.20.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "tru.e-ending",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/tru.e-ending-v1.1.0c.jar",
+      "fileName": "tru.e-ending-v1.1.0c.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "end-remastered",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-end-remastered-5.2.4.jar",
+      "fileName": "fabric-end-remastered-5.2.4.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "Item_Obliterator",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+      "fileName": "Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "DarkFear",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/DarkFear-1.20.x-fabric-1.0.3.jar",
+      "fileName": "DarkFear-1.20.x-fabric-1.0.3.jar",
       "side": "BOTH"
     }
   ]
