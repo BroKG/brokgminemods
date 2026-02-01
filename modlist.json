@@ -124,7 +124,6 @@
       "side": "CLIENT"
     },
     {
-    {
       "name": "Chunky",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Chunky-1.3.146.jar",
       "fileName": "Chunky-1.3.146.jar",
@@ -365,7 +364,7 @@
       "side": "SERVER"
     },
     {
-      "name": "carpet-fixes",
+      "name": "fabric-fixes",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-carpet-1.20-1.4.112+v230608.jar",
       "fileName": "fabric-carpet-1.20-1.4.112+v230608.jar",
       "side": "BOTH"
