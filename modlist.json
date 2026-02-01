@@ -441,6 +441,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/DarkFear-1.20.x-fabric-1.0.3.jar",
       "fileName": "DarkFear-1.20.x-fabric-1.0.3.jar",
       "side": "BOTH"
+    },
+    {
+      "name": "treeharvester",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar",
+      "fileName": "treeharvester-1.20.1-9.1.jar",
+      "side": "SERVER"
     }
   ]
 }
