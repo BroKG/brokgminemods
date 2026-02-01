@@ -447,6 +447,24 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar",
       "fileName": "treeharvester-1.20.1-9.1.jar",
       "side": "SERVER"
+    },
+    {
+      "name": "Necronomicon",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Necronomicon-Fabric-1.6.0+1.20.1.jar",
+      "fileName": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "balm",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/balm-fabric-1.20.1-7.3.38.jar",
+      "fileName": "balm-fabric-1.20.1-7.3.38.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "collective",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/collective-1.20.1-8.13.jar",
+      "fileName": "collective-1.20.1-8.13.jar",
+      "side": "BOTH"
     }
   ]
 }
