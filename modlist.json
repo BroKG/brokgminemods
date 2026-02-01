@@ -377,9 +377,9 @@
       "side": "SERVER"
     },
     {
-      "name": "DisableEnd",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/DisableEnd-1.1.4+1.16-1.21.4.jar",
-      "fileName": "DisableEnd-1.1.4+1.16-1.21.4.jar",
+      "name": "disable-end",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/disable-end-portals-1.0.1+1.19.4-1.21.4.jar",
+      "fileName": "disable-end-portals-1.0.1+1.19.4-1.21.4.jar",
       "side": "SERVER"
     },
     {
