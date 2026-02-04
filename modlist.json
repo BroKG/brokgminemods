@@ -322,18 +322,11 @@
       "side": "BOTH"
     },
     {
-      "name": "no-netherite-armor",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/no-netherite-armor-1.0.0.jar",
-      "fileName": "no-netherite-armor-1.0.0.jar",
-      "side": "SERVER"
-    },
-    {
       "name": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
       "fileName": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
       "side": "BOTH"
     },
-    
     {
       "name": "JEI",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/jei-1.20.1-fabric-15.20.0.129.jar",
@@ -401,12 +394,6 @@
       "side": "SERVER"
     },
     {
-      "name": "darkness",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/darkness-fabric-1.2.0+mc1.20.1.jar",
-      "fileName": "darkness-fabric-1.2.0+mc1.20.1.jar",
-      "side": "BOTH"
-    },
-    {
       "name": "forgivingvoid",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/forgivingvoid-fabric-1.20.1-10.0.3.jar",
       "fileName": "forgivingvoid-fabric-1.20.1-10.0.3.jar",
@@ -465,6 +452,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/elytra-nerf-1.0.1+1.20.2.jar",
       "fileName": "elytra-nerf-1.0.1+1.20.2.jar",
       "side": "SERVER"
+    },
+    {
+      "name": "bobby",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bobby-5.0.1.jar",
+      "fileName": "bobby-5.0.1.jar",
+      "side": "CLIENT"
     }
   ]
 }
