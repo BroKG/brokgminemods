@@ -424,12 +424,6 @@
       "side": "BOTH"
     },
     {
-      "name": "treeharvester",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar",
-      "fileName": "treeharvester-1.20.1-9.1.jar",
-      "side": "SERVER"
-    },
-    {
       "name": "Necronomicon",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Necronomicon-Fabric-1.6.0+1.20.1.jar",
       "fileName": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
