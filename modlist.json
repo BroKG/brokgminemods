@@ -452,6 +452,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/bobby-5.0.1.jar",
       "fileName": "bobby-5.0.1.jar",
       "side": "CLIENT"
+    },
+    {
+      "name": "TreeChop",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/",
+      "fileName": "TreeChop-1.20.1-fabric-0.19.0.jar",
+      "side": "BOTH"
     }
   ]
 }
