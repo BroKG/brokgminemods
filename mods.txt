@@ -66,7 +66,6 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/disable-end-portals-1
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/bclib-3.0.14.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/betterendcitiesvanilla-1.20.1.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/darkness-fabric-1.2.0+mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/forgivingvoid-fabric-1.20.1-10.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/owo-lib-0.11.2+1.20.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/tru.e-ending-v1.1.0c.jar
