@@ -71,9 +71,9 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/owo-lib-0.11.2+1.20.j
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/tru.e-ending-v1.1.0c.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/fabric-end-remastered-5.2.4.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/Necronomicon-Fabric-1.6.0+1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/balm-fabric-1.20.1-7.3.38.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/collective-1.20.1-8.13.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/elytra-nerf-1.0.1+1.20.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/bobby-5.0.1.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/TreeChop-1.20.1-fabric-0.19.0.jar
