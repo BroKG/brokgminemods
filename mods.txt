@@ -74,3 +74,5 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/balm-fabric-1.20.1-7.
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/collective-1.20.1-8.13.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/elytra-nerf-1.0.1+1.20.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/bobby-5.0.1.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/lmft-1.1.1+1.21.9-fabric.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar
