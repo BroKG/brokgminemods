@@ -76,3 +76,4 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/elytra-nerf-1.0.1+1.2
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/bobby-5.0.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/lmft-1.1.1+1.21.9-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/FabricProxy-Lite-2.6.0.jar
