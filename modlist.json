@@ -457,7 +457,7 @@
       "name": "lmft",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/lmft-1.1.1+1.21.9-fabric.jar",
       "fileName": "lmft-1.1.1+1.21.9-fabric.jar",
-      "side": "BOTH"
+      "side": "SERVER"
     },
     {
       "name": "treeharvester",
