@@ -334,9 +334,9 @@
       "side": "BOTH"
     },
     {
-      "name": "Graves",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/gravestones-v1.15.jar",
-      "fileName": "gravestones-v1.15.jar",
+      "name": "gravestones",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/gravestones-1.2.10+1.20+A.jar",
+      "fileName": "gravestones-1.2.10+1.20+A.jar",
       "side": "BOTH"
     },  
     {
@@ -464,6 +464,18 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/treeharvester-1.20.1-9.1.jar",
       "fileName": "treeharvester-1.20.1-9.1.jar",
       "side": "CLIENT"
+    },
+    {
+      "name": "treeharvester",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/FabricProxy-Lite-2.6.0.jar",
+      "fileName": "FabricProxy-Lite-2.6.0.jar",
+      "side": "SERVER"
+    },
+    {
+      "name": "create_enchantment_industry",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/create_enchantment_industry-1.2.16.jar",
+      "fileName": "create_enchantment_industry-1.2.16.jar",
+      "side": "BOTH"
     }
   ]
 }
