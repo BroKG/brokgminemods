@@ -466,12 +466,6 @@
       "side": "CLIENT"
     },
     {
-      "name": "treeharvester",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/FabricProxy-Lite-2.6.0.jar",
-      "fileName": "FabricProxy-Lite-2.6.0.jar",
-      "side": "SERVER"
-    },
-    {
       "name": "create_enchantment_industry",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/create_enchantment_industry-1.2.16.jar",
       "fileName": "create_enchantment_industry-1.2.16.jar",
