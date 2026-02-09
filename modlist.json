@@ -482,12 +482,6 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/display-1.0.2-fabric-1.20.1.jar",
       "fileName": "display-1.0.2-fabric-1.20.1.jar",
       "side": "BOTH"
-    },
-    {
-      "name": "ProperProxyProtocol",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ProperProxyProtocol-fabric-1.0.0.jar",
-      "fileName": "ProperProxyProtocol-fabric-1.0.0.jar",
-      "side": "SERVER"
     }
   ]
 }
