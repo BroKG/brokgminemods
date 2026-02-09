@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/sophisticatedcore-1.2
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/TerraBlender-fabric-1.20.1-3.0.1.10.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsApi-1.20-Fabric-4.0.6.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-9.2.14-fabric.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-19.0.1-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/coroutil-fabric-1.20.1-1.3.7.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/geckolib-fabric-1.20.1-4.8.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/resourcefullib-fabric-1.20.1-2.1.29.jar
