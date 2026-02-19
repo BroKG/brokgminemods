@@ -28,6 +28,9 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/observable-4.4.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/rusticdelight-fabric-1.20.1-1.3.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/spark-1.10.53-fabric.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/Steam_Rails-1.6.9+fabric-mc1.20.1.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-3.0.3.f.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-ancient-city-overhaul-1.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-pillager-outpost-rework-1.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterDungeons-1.20-Fabric-4.0.4.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar
@@ -35,8 +38,7 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterMineshafts
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBridges-1.20-Fabric-4.0.3.jar
+https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-swamp-hut-rework-1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/indium-1.0.36+mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/sliceanddice-fabric-3.3.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar
@@ -46,7 +48,6 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-9.2.14-f
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/coroutil-fabric-1.20.1-1.3.7.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/geckolib-fabric-1.20.1-4.8.2.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/resourcefullib-fabric-1.20.1-2.1.29.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/Explorify_v1.6.4_f15-88.mod.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/bat-membrane-v.1.1.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/antixray-fabric-1.4.6+1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/Jadens-Nether-Expansion-2.1.3-Fabric.jar
