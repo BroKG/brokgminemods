@@ -39,8 +39,6 @@ https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterWitchHuts-
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBridges-1.20-Fabric-4.0.3.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/indium-1.0.36+mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/sliceanddice-fabric-3.3.1.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar
-https://raw.githubusercontent.com/BroKG/brokgminemods/main/sophisticatedcore-1.20.1-1.2.7.15.166.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/TerraBlender-fabric-1.20.1-3.0.1.10.jar
 https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsApi-1.20-Fabric-4.0.6.jar
