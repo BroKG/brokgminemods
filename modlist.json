@@ -183,6 +183,36 @@
       "fileName": "Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
       "side": "BOTH"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "dungeons-and-taverns",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-3.0.3.f.jar",
+      "fileName": "dungeons-and-taverns-3.0.3.f.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "ancient-city-overhaul",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-ancient-city-overhaul-1.jar",
+      "fileName": "dungeons-and-taverns-ancient-city-overhaul-1.jar",
+      "side": "BOTH"
+    },
+    {
+      "name": "ancient-city-overhaul",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-ancient-city-overhaul-1.jar",
+      "fileName": "dungeons-and-taverns-ancient-city-overhaul-1.jar",
+      "side": "BOTH"
+    },
     {
       "name": "BttrDesTemple",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
@@ -220,21 +250,15 @@
       "side": "BOTH"
     },
     {
-      "name": "BttrStnghld",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-      "fileName": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+      "name": "stronghold-rework",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-stronghold-rework-1.jar",
+      "fileName": "dungeons-and-taverns-stronghold-rework-1.jar",
       "side": "BOTH"
     },
     {
-      "name": "BttrWitchHut",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-      "fileName": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-      "side": "BOTH"
-    },
-    {
-      "name": "Bridges",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/YungsBridges-1.20-Fabric-4.0.3.jar",
-      "fileName": "YungsBridges-1.20-Fabric-4.0.3.jar",
+      "name": "swamp-hut-rework",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/dungeons-and-taverns-swamp-hut-rework-1.jar",
+      "fileName": "dungeons-and-taverns-swamp-hut-rework-1.jar",
       "side": "BOTH"
     },
     {
@@ -247,12 +271,6 @@
       "name": "CreateDelightAuto",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sliceanddice-fabric-3.3.1.jar",
       "fileName": "sliceanddice-fabric-3.3.1.jar",
-      "side": "BOTH"
-    },
-    {
-      "name": "sophisticatedcore",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
-      "fileName": "sophisticatedcore-1.20.1-1.2.7.15.166.jar",
       "side": "BOTH"
     },
     {
@@ -289,12 +307,6 @@
       "name": "architectury",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/architectury-9.2.14-fabric.jar",
       "fileName": "architectury-9.2.14-fabric.jar",
-      "side": "BOTH"
-    },
-    {
-      "name": "Explorify_v1",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Explorify_v1.6.4_f15-88.mod.jar",
-      "fileName": "Explorify_v1.6.4_f15-88.mod.jar",
       "side": "BOTH"
     },
     {
