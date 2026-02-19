@@ -154,12 +154,6 @@
       "side": "BOTH"
     },
     {
-      "name": "Ledger",
-      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ledger-1.2.8.jar",
-      "fileName": "ledger-1.2.8.jar",
-      "side": "SERVER"
-    },
-    {
       "name": "Observable",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/observable-4.4.2.jar",
       "fileName": "observable-4.4.2.jar",
