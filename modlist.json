@@ -482,6 +482,12 @@
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/display-1.0.2-fabric-1.20.1.jar",
       "fileName": "display-1.0.2-fabric-1.20.1.jar",
       "side": "BOTH"
+    },
+    {
+      "name": "proxy-protocol-support",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/proxy-protocol-support-1.1.0-fabric.jar",
+      "fileName": "proxy-protocol-support-1.1.0-fabric.jar",
+      "side": "SERVER"
     }
   ]
 }
