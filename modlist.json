@@ -124,6 +124,12 @@
       "side": "CLIENT"
     },
     {
+      "name": "Ledger",
+      "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/ledger-1.2.8.jar",
+      "fileName": "ledger-1.2.8.jar",
+      "side": "SERVER"
+    },
+    {
       "name": "Chunky",
       "url": "https://raw.githubusercontent.com/BroKG/brokgminemods/main/Chunky-1.3.146.jar",
       "fileName": "Chunky-1.3.146.jar",
